@@ -1,4 +1,3 @@
-package cicd_exp2;
 
 public class sample {
 
